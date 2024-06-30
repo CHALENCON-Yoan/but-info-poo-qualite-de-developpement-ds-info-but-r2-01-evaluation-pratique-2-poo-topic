@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.iutvalence.info.but.r2_01.labyrinthGame.core"},{"l":"fr.iutvalence.info.but.r2_01.labyrinthGame.exceptions"},{"l":"fr.iutvalence.info.but.r2_01.labyrinthGame.loggers"},{"l":"fr.iutvalence.info.but.r2_01.labyrinthGame.robots"}];updateSearchResults();
